@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SethHowwie
 - 👀 I’m interested in Software Development and Engineering and Programming languages in general
 - 🌱 I’m currently learning C#, Python, Java, Racket, MySQL
-- 💞️ I’m looking to collaborate on nothing in particular at the moment. Right now I am focusing on building my library of personal projects. 
+- 💞️ Right now I am focusing on building my library of personal projects.
 - 📫 How to reach me: Shoot me an email @ seth.howard1397@gmail.com. 
 
 <!---
